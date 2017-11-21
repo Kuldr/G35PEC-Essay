@@ -6,9 +6,7 @@ Project Description:
 The project will create a tool which can optimise a team for competitive Pokémon battling. The objective of the project is to see if Evolutionary Algorithms can solve this type of problem on a more complex data source such as finding good teams from all potential sets of Pokémon. The scenario I am going to reason about is if the software was ever released as a commercial product.
 
 Copyright Infringement:
-The user
+The end product would contain a sleek user interface. This could contain assets created and under copyright of The Pokémon Company. Using these assets is an ethical issue.
 
 Trademark Infringement:
-
-Intellectual Property:
-The program will be manipulating publicly available data from the Pokémon video games as well as potentially containing other assets from them. If it was released commercially this could be some form of intellectual property infringement.
+The product would also be marketed and sold using the trademarks of The Pokémon Company. By using the brand name or the name of any other trademarked items the sale of the product would be trademark infringement.
