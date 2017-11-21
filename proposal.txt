@@ -5,6 +5,7 @@ Project Title: Applying Evolutionary Algorithms to Pokémon Team Building
 Project Description:
 The project will create a tool which can optimise a team for competitive Pokémon battling. The objective of the project is to see if Evolutionary Algorithms can solve this type of problem on a more complex data source such as finding good teams from all potential sets of Pokémon. The scenario I am going to reason about is if the software was ever released as a commercial product.
 
-Issue 1:
+Intellectual Property:
+The program will be manipulating publicly available data from the Pokémon video games as well as potentially containing other assets.
 
 Issue 2:
