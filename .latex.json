@@ -1,0 +1,11 @@
+{
+  "projectPath": "/Users/Leafeon/Desktop/G53PEC",
+  "title": "LaTeX-Plus Project",
+  "root": "essay.tex",
+  "program": "pdflatex",
+  "latexmkOptions": "-bibtex -pdf -shell-escape",
+  "output": ".latex",
+  "openOutput": "true",
+  "postAction": "link",
+  "postPath": ""
+}
