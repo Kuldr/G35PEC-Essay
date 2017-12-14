@@ -1,16 +1,16 @@
 # Fdb version 3
-["bibtex .latex/essay"] 1513257742 ".latex/essay.aux" ".latex/essay.bbl" ".latex/essay" 1513260257
-  ".latex/essay.aux" 1513260257 96 672faadf9ffb127f7b8071d02fbd3879 ""
+["bibtex .latex/essay"] 1513260305 ".latex/essay.aux" ".latex/essay.bbl" ".latex/essay" 1513262606
+  ".latex/essay.aux" 1513262605 345 221e2c239facbc75b4ce0f4196c479d9 ""
   ".latex/essay.bcf" 0 -1 0 ""
   "/usr/local/texlive/2015/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "G53PEC.bib" 1513257699 287 24820f80f99744a0d67ea5c27851c6e5 ""
   (generated)
-  ".latex/essay.blg"
   ".latex/essay.bbl"
-["pdflatex"] 1513260257 "essay.tex" "/Users/Leafeon/Desktop/G53PEC/.latex/essay.pdf" "essay" 1513260257
-  ".latex/essay.aux" 1513260257 96 672faadf9ffb127f7b8071d02fbd3879 ""
-  ".latex/essay.bbl" 1513257742 289 10abaad4ead5312afc3348f6ef43cd3b "bibtex .latex/essay"
-  "/Users/Leafeon/Desktop/G53PEC/.latex/essay.aux" 1513260257 96 672faadf9ffb127f7b8071d02fbd3879 ""
+  ".latex/essay.blg"
+["pdflatex"] 1513262605 "essay.tex" "/Users/Leafeon/Desktop/G53PEC/.latex/essay.pdf" "essay" 1513262606
+  ".latex/essay.aux" 1513262605 345 221e2c239facbc75b4ce0f4196c479d9 ""
+  ".latex/essay.bbl" 1513260305 289 10abaad4ead5312afc3348f6ef43cd3b "bibtex .latex/essay"
+  "/Users/Leafeon/Desktop/G53PEC/.latex/essay.aux" 1513262605 345 221e2c239facbc75b4ce0f4196c479d9 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -60,11 +60,11 @@
   "/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1432479641 1764542 91654ba72bdb667e84ea24f076ae16d8 ""
   "/usr/local/texlive/2015/texmf-var/web2c/pdftex/pdflatex.fmt" 1457131091 3849858 3071a6fd0446d2f9c3610bb62fcd76cf ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "essay.tex" 1513260256 843 3b6c83ccbba4c600b62c3a70ab0babd8 ""
+  "essay.tex" 1513262605 1970 1ad173d1e058de3b12c7c62f98f95f67 ""
   (generated)
   ".latex/essay.aux"
-  "/Users/Leafeon/Desktop/G53PEC/.latex/essay.pdf"
-  ".latex/essay.pdf"
   ".latex/essay.log"
-  "/Users/Leafeon/Desktop/G53PEC/.latex/essay.log"
   "/Users/Leafeon/Desktop/G53PEC/.latex/essay.aux"
+  ".latex/essay.pdf"
+  "/Users/Leafeon/Desktop/G53PEC/.latex/essay.log"
+  "/Users/Leafeon/Desktop/G53PEC/.latex/essay.pdf"
