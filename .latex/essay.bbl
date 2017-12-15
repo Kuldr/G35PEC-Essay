@@ -1,10 +1,20 @@
 \begin{thebibliography}{1}
 
+\bibitem{bscCoC}
+BCS.
+\newblock Code of conduct for bcs members.
+\newblock \url{http://www.bcs.org/upload/pdf/conduct.pdf}, June 2015.
+
 \bibitem{worldsOverview}
 Griffin McElroy.
 \newblock Becoming the very best: The pokemon world championships.
 \newblock
   \url{https://www.polygon.com/2013/7/20/4539528/becoming-the-very-best-the-pokemon-world-championships},
   July 2013.
+
+\bibitem{soloveTaxonomy}
+Daniel~J Solove.
+\newblock A taxonomy of privacy.
+\newblock {\em U. Pa. L. Rev.}, 154:477, 2005.
 
 \end{thebibliography}
