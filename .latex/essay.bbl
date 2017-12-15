@@ -1,9 +1,39 @@
 \begin{thebibliography}{1}
 
+\bibitem{ITA}
+The International~Trademark Association.
+\newblock Fair use of trademarks (intended for a non-legal audience).
+\newblock
+  \url{https://www.inta.org/TrademarkBasics/FactSheets/Pages/Fair-Use-of-TrademarksNL.aspx},
+  January 2016.
+
 \bibitem{bscCoC}
 BCS.
 \newblock Code of conduct for bcs members.
 \newblock \url{http://www.bcs.org/upload/pdf/conduct.pdf}, June 2015.
+
+\bibitem{pokedexCopyright}
+Bulbanews.
+\newblock Pok\'{e}dex apps pulled from market.
+\newblock
+  \url{https://bulbanews.bulbagarden.net/wiki/Pok%C3%A9dex_apps_pulled_from_market},
+  May 2011.
+
+\bibitem{pokemonTOS}
+The~Pok\'{e}mon Company.
+\newblock Terms of use.
+\newblock \url{https://www.pokemon.com/uk/terms-of-use/}, July 2016.
+
+\bibitem{dataProtectionAct}
+UK~Government.
+\newblock Data protection act 1998.
+\newblock \url{http://www.legislation.gov.uk/ukpga/1998/29}, July 1998.
+
+\bibitem{ukGovIP}
+UK~Government.
+\newblock Intellectual property and your work.
+\newblock \url{https://www.gov.uk/intellectual-property-an-overview}, December
+  2017.
 
 \bibitem{worldsOverview}
 Griffin McElroy.
